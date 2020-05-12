@@ -1,4 +1,5 @@
 {
   "watchForFileChanges": false,
-  "projectId": "3smjgd"
+  "projectId": "3smjgd",
+  "testFiles": "**/*.feature"
 }
